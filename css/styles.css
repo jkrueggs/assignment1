@@ -15,8 +15,8 @@ h1 {
 }
 
 p {
-    color: coral;
-    font-size: 48pt;
+    color: #ff0000;
+    font-size: 22pt;
 /*    background-color: aqua*/
 }
 
@@ -27,6 +27,7 @@ a {
 .cis-260 {
     color: chartreuse;
     background-color: cadetblue;
+    font-family: cursive;
 }
 
 .test {
@@ -38,3 +39,10 @@ a {
     background-color: darkmagenta;
 }
 
+#special-paragraph {
+    font-family: "cursive"
+}
+
+body p {
+    font-family: cursive
+}
